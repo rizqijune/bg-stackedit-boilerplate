@@ -33,7 +33,7 @@
 2.  Write the Page ID (If you prefer to use it in Page).
 3.  Choose Styled HTML with TOC template.
 4.  Click the copy icon and edit.
-5.  Paste the code from `blogger-page-template.html`.
+5.  Paste the code from `se-blogger-template.html`.
 6.  Done.
 
 ## 📄 License
